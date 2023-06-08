@@ -21,6 +21,9 @@ Además de mis sólidas habilidades técnicas, soy una profesional con una mente
 
 
 <h3 align="center">LANGUAGES<hr/></h3>
+<a href="https://www.efset.org/cert/RRJnAY">
+    <img src="https://www.efset.org/static/favicon.ico" />
+<a/>
 
 <h3 align="center">TECH STACK<hr/></h3>
 <h4>Frontend</h4>
