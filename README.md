@@ -52,7 +52,9 @@ Además de mis sólidas habilidades técnicas, soy una profesional con una mente
     <img src='https://img.shields.io/badge/material ui-0081CB?logo=material-ui&style=for-the-badge' />
   </a>
   &nbsp;  
-  </a>
+ <a href='https://reactnative.dev/'>
+   <img src='https://img.shields.io/badge/React_Native-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
+ </a>
 </p>
 
 <h4>Backend</h4>
