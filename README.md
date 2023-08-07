@@ -64,13 +64,20 @@ Además de mis sólidas habilidades técnicas, soy una profesional con una mente
   <a href='https://expressjs.com/'>
     <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
   </a>
-  &nbsp;
+
+
+</p>
+
+<h4>DataBase</h4>
   <a href="https://www.postgresql.org/">
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    </a>
-</p>
+  &nbsp;
+<a href="https://www.mysql.com/">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1&labelColor=F29111" />
+</a>
 
-
+  
 <h4>Dev Tools</h4>
 <p>
   <a href='https://git-scm.com/'>
